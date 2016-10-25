@@ -21410,7 +21410,7 @@
 
 	var _example_components2 = _interopRequireDefault(_example_components);
 
-	var _hero_example = __webpack_require__(643);
+	var _hero_example = __webpack_require__(647);
 
 	var _hero_example2 = _interopRequireDefault(_hero_example);
 
@@ -21423,7 +21423,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/root.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/root.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -27110,105 +27110,117 @@
 
 	var _default2 = _interopRequireDefault(_default);
 
-	var _code_example_component = __webpack_require__(617);
+	var _code_example_component = __webpack_require__(618);
 
 	var _code_example_component2 = _interopRequireDefault(_code_example_component);
 
-	var _custom_date_format = __webpack_require__(618);
+	var _custom_date_format = __webpack_require__(619);
 
 	var _custom_date_format2 = _interopRequireDefault(_custom_date_format);
 
-	var _custom_class_name = __webpack_require__(619);
+	var _custom_class_name = __webpack_require__(620);
 
 	var _custom_class_name2 = _interopRequireDefault(_custom_class_name);
 
-	var _placeholder_text = __webpack_require__(620);
+	var _placeholder_text = __webpack_require__(621);
 
 	var _placeholder_text2 = _interopRequireDefault(_placeholder_text);
 
-	var _specific_date_range = __webpack_require__(621);
+	var _specific_date_range = __webpack_require__(622);
 
 	var _specific_date_range2 = _interopRequireDefault(_specific_date_range);
 
-	var _locale = __webpack_require__(622);
+	var _locale = __webpack_require__(623);
 
 	var _locale2 = _interopRequireDefault(_locale);
 
-	var _exclude_dates = __webpack_require__(623);
+	var _exclude_dates = __webpack_require__(624);
 
 	var _exclude_dates2 = _interopRequireDefault(_exclude_dates);
 
-	var _highlight_dates = __webpack_require__(624);
+	var _highlight_dates = __webpack_require__(625);
 
 	var _highlight_dates2 = _interopRequireDefault(_highlight_dates);
 
-	var _include_dates = __webpack_require__(625);
+	var _include_dates = __webpack_require__(626);
 
 	var _include_dates2 = _interopRequireDefault(_include_dates);
 
-	var _filter_dates = __webpack_require__(626);
+	var _filter_dates = __webpack_require__(627);
 
 	var _filter_dates2 = _interopRequireDefault(_filter_dates);
 
-	var _disabled = __webpack_require__(627);
+	var _disabled = __webpack_require__(628);
 
 	var _disabled2 = _interopRequireDefault(_disabled);
 
-	var _clear_input = __webpack_require__(628);
+	var _clear_input = __webpack_require__(629);
 
 	var _clear_input2 = _interopRequireDefault(_clear_input);
 
-	var _on_blur_callbacks = __webpack_require__(629);
+	var _on_blur_callbacks = __webpack_require__(630);
 
 	var _on_blur_callbacks2 = _interopRequireDefault(_on_blur_callbacks);
 
-	var _placement = __webpack_require__(630);
+	var _placement = __webpack_require__(631);
 
 	var _placement2 = _interopRequireDefault(_placement);
 
-	var _date_range = __webpack_require__(631);
+	var _date_range = __webpack_require__(632);
 
 	var _date_range2 = _interopRequireDefault(_date_range);
 
-	var _tab_index = __webpack_require__(632);
+	var _tab_index = __webpack_require__(633);
 
 	var _tab_index2 = _interopRequireDefault(_tab_index);
 
-	var _year_dropdown = __webpack_require__(633);
+	var _year_dropdown = __webpack_require__(634);
 
 	var _year_dropdown2 = _interopRequireDefault(_year_dropdown);
 
-	var _year_select_dropdown = __webpack_require__(634);
+	var _year_select_dropdown = __webpack_require__(635);
 
 	var _year_select_dropdown2 = _interopRequireDefault(_year_select_dropdown);
 
-	var _today = __webpack_require__(635);
+	var _today = __webpack_require__(636);
 
 	var _today2 = _interopRequireDefault(_today);
 
-	var _timezone_date = __webpack_require__(636);
+	var _timezone_date = __webpack_require__(637);
 
 	var _timezone_date2 = _interopRequireDefault(_timezone_date);
 
-	var _inline = __webpack_require__(637);
+	var _inline = __webpack_require__(638);
 
 	var _inline2 = _interopRequireDefault(_inline);
 
-	var _open_to_date = __webpack_require__(638);
+	var _open_to_date = __webpack_require__(639);
 
 	var _open_to_date2 = _interopRequireDefault(_open_to_date);
 
-	var _fixed_calendar = __webpack_require__(639);
+	var _fixed_calendar = __webpack_require__(640);
 
 	var _fixed_calendar2 = _interopRequireDefault(_fixed_calendar);
 
-	var _custom_input = __webpack_require__(640);
+	var _week_numbers = __webpack_require__(641);
+
+	var _week_numbers2 = _interopRequireDefault(_week_numbers);
+
+	var _custom_input = __webpack_require__(642);
 
 	var _custom_input2 = _interopRequireDefault(_custom_input);
 
-	__webpack_require__(641);
+	var _multi_month = __webpack_require__(643);
 
-	__webpack_require__(642);
+	var _multi_month2 = _interopRequireDefault(_multi_month);
+
+	var _multi_month_drp = __webpack_require__(644);
+
+	var _multi_month_drp2 = _interopRequireDefault(_multi_month_drp);
+
+	__webpack_require__(645);
+
+	__webpack_require__(646);
 
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -27219,7 +27231,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/example_components.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/example_components.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -27309,8 +27321,17 @@
 	    title: 'Fixed height of Calendar',
 	    component: _react3.default.createElement(_fixed_calendar2.default, null)
 	  }, {
+	    title: 'Display Week Numbers',
+	    component: _react3.default.createElement(_week_numbers2.default, null)
+	  }, {
 	    title: 'Custom input',
 	    component: _react3.default.createElement(_custom_input2.default, null)
+	  }, {
+	    title: 'Multiple months',
+	    component: _react3.default.createElement(_multi_month2.default, null)
+	  }, {
+	    title: 'Multiple months with year dropdown',
+	    component: _react3.default.createElement(_multi_month_drp2.default, null)
 	  }],
 
 	  renderExamples: function renderExamples() {
@@ -43690,7 +43711,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/default.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/default.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -43725,13 +43746,11 @@
 	        _react3.default.createElement(
 	          'code',
 	          { className: 'jsx' },
-	          "<DatePicker",
+	          '<DatePicker',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.startDate}",
+	          'selected={this.state.startDate}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChange} />"
+	          'onChange={this.handleChange} />'
 	        )
 	      ),
 	      _react3.default.createElement(
@@ -43768,15 +43787,15 @@
 
 	var _calendar2 = _interopRequireDefault(_calendar);
 
-	var _defer = __webpack_require__(613);
+	var _defer = __webpack_require__(614);
 
 	var _defer2 = _interopRequireDefault(_defer);
 
-	var _tether_component = __webpack_require__(615);
+	var _tether_component = __webpack_require__(616);
 
 	var _tether_component2 = _interopRequireDefault(_tether_component);
 
-	var _classnames2 = __webpack_require__(610);
+	var _classnames2 = __webpack_require__(604);
 
 	var _classnames3 = _interopRequireDefault(_classnames2);
 
@@ -43797,7 +43816,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/src/datepicker.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/src/datepicker.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -43839,7 +43858,7 @@
 	    locale: _react3.default.PropTypes.string,
 	    maxDate: _react3.default.PropTypes.object,
 	    minDate: _react3.default.PropTypes.object,
-	    months: _react3.default.PropTypes.number,
+	    monthsShown: _react3.default.PropTypes.number,
 	    name: _react3.default.PropTypes.string,
 	    onBlur: _react3.default.PropTypes.func,
 	    onChange: _react3.default.PropTypes.func.isRequired,
@@ -43853,10 +43872,12 @@
 	    readOnly: _react3.default.PropTypes.bool,
 	    renderCalendarTo: _react3.default.PropTypes.any,
 	    required: _react3.default.PropTypes.bool,
+	    scrollableYearDropdown: _react3.default.PropTypes.bool,
 	    selected: _react3.default.PropTypes.object,
 	    selectsEnd: _react3.default.PropTypes.bool,
 	    selectsStart: _react3.default.PropTypes.bool,
 	    showMonthDropdown: _react3.default.PropTypes.bool,
+	    showWeekNumbers: _react3.default.PropTypes.bool,
 	    showYearDropdown: _react3.default.PropTypes.bool,
 	    startDate: _react3.default.PropTypes.object,
 	    tabIndex: _react3.default.PropTypes.number,
@@ -43884,7 +43905,7 @@
 	        attachment: 'together'
 	      }],
 	      utcOffset: _moment2.default.utc().utcOffset(),
-	      months: 1
+	      monthsShown: 1
 	    };
 	  },
 	  getInitialState: function getInitialState() {
@@ -43948,30 +43969,6 @@
 	      this.setOpen(false);
 	    } else if (event.key === 'Tab') {
 	      this.setOpen(false);
-	    } else if (event.key === 'ArrowLeft') {
-	      event.preventDefault();
-	      this.setSelected(copy.subtract(1, 'days'));
-	    } else if (event.key === 'ArrowRight') {
-	      event.preventDefault();
-	      this.setSelected(copy.add(1, 'days'));
-	    } else if (event.key === 'ArrowUp') {
-	      event.preventDefault();
-	      this.setSelected(copy.subtract(1, 'weeks'));
-	    } else if (event.key === 'ArrowDown') {
-	      event.preventDefault();
-	      this.setSelected(copy.add(1, 'weeks'));
-	    } else if (event.key === 'PageUp') {
-	      event.preventDefault();
-	      this.setSelected(copy.subtract(1, 'months'));
-	    } else if (event.key === 'PageDown') {
-	      event.preventDefault();
-	      this.setSelected(copy.add(1, 'months'));
-	    } else if (event.key === 'Home') {
-	      event.preventDefault();
-	      this.setSelected(copy.subtract(1, 'years'));
-	    } else if (event.key === 'End') {
-	      event.preventDefault();
-	      this.setSelected(copy.add(1, 'years'));
 	    }
 	  },
 	  onClearClick: function onClearClick(event) {
@@ -44003,12 +44000,14 @@
 	      includeDates: this.props.includeDates,
 	      peekNextMonth: this.props.peekNextMonth,
 	      showMonthDropdown: this.props.showMonthDropdown,
+	      showWeekNumbers: this.props.showWeekNumbers,
 	      showYearDropdown: this.props.showYearDropdown,
+	      scrollableYearDropdown: this.props.scrollableYearDropdown,
 	      todayButton: this.props.todayButton,
 	      utcOffset: this.props.utcOffset,
 	      outsideClickIgnoreClass: outsideClickIgnoreClass,
 	      fixedHeight: this.props.fixedHeight,
-	      months: this.props.months,
+	      monthsShown: this.props.monthsShown,
 	      onDropdownFocus: this.handleDropdownFocus });
 	  },
 	  renderDateInput: function renderDateInput() {
@@ -44057,7 +44056,7 @@
 	      return _react3.default.createElement(
 	        _tether_component2.default,
 	        {
-	          classPrefix: "react-datepicker__tether",
+	          classPrefix: 'react-datepicker__tether',
 	          attachment: this.props.popoverAttachment,
 	          targetAttachment: this.props.popoverTargetAttachment,
 	          targetOffset: this.props.popoverTargetOffset,
@@ -44111,7 +44110,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/src/date_input.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/src/date_input.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -44193,19 +44192,18 @@
 	    this.refs.input.focus();
 	  },
 	  render: function render() {
-	    var _props = this.props;
-	    var customInput = _props.customInput;
-	    var date = _props.date;
-	    var locale = _props.locale;
-	    var minDate = _props.minDate;
-	    var maxDate = _props.maxDate;
-	    var excludeDates = _props.excludeDates;
-	    var includeDates = _props.includeDates;
-	    var filterDate = _props.filterDate;
-	    var dateFormat = _props.dateFormat;
-	    var onChangeDate = _props.onChangeDate;
-
-	    var rest = _objectWithoutProperties(_props, ['customInput', 'date', 'locale', 'minDate', 'maxDate', 'excludeDates', 'includeDates', 'filterDate', 'dateFormat', 'onChangeDate']); // eslint-disable-line no-unused-vars
+	    var _props = this.props,
+	        customInput = _props.customInput,
+	        date = _props.date,
+	        locale = _props.locale,
+	        minDate = _props.minDate,
+	        maxDate = _props.maxDate,
+	        excludeDates = _props.excludeDates,
+	        includeDates = _props.includeDates,
+	        filterDate = _props.filterDate,
+	        dateFormat = _props.dateFormat,
+	        onChangeDate = _props.onChangeDate,
+	        rest = _objectWithoutProperties(_props, ['customInput', 'date', 'locale', 'minDate', 'maxDate', 'excludeDates', 'includeDates', 'filterDate', 'dateFormat', 'onChangeDate']); // eslint-disable-line no-unused-vars
 
 	    if (customInput) {
 	      return _react3.default.cloneElement(customInput, _extends({}, rest, {
@@ -44234,7 +44232,7 @@
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {//! moment.js
-	//! version : 2.15.1
+	//! version : 2.15.2
 	//! authors : Tim Wood, Iskren Chernev, Moment.js contributors
 	//! license : MIT
 	//! momentjs.com
@@ -45065,7 +45063,7 @@
 
 	    // LOCALES
 
-	    var MONTHS_IN_FORMAT = /D[oD]?(\[[^\[\]]*\]|\s+)+MMMM?/;
+	    var MONTHS_IN_FORMAT = /D[oD]?(\[[^\[\]]*\]|\s)+MMMM?/;
 	    var defaultLocaleMonths = 'January_February_March_April_May_June_July_August_September_October_November_December'.split('_');
 	    function localeMonths (m, format) {
 	        if (!m) {
@@ -48430,7 +48428,7 @@
 	    // Side effect imports
 
 
-	    utils_hooks__hooks.version = '2.15.1';
+	    utils_hooks__hooks.version = '2.15.2';
 
 	    setHookCallback(local__createLocal);
 
@@ -53412,7 +53410,7 @@
 /***/ function(module, exports, __webpack_require__) {
 
 	//! moment.js locale configuration
-	//! locale : Japanese [jv]
+	//! locale : Javanese [jv]
 	//! author : Rony Lantip : https://github.com/lantip
 	//! reference: http://jv.wikipedia.org/wiki/Basa_Jawa
 
@@ -54177,7 +54175,7 @@
 	        months : {
 	            format: 'sausio_vasario_kovo_balandžio_gegužės_birželio_liepos_rugpjūčio_rugsėjo_spalio_lapkričio_gruodžio'.split('_'),
 	            standalone: 'sausis_vasaris_kovas_balandis_gegužė_birželis_liepa_rugpjūtis_rugsėjis_spalis_lapkritis_gruodis'.split('_'),
-	            isFormat: /D[oD]?(\[[^\[\]]*\]|\s+)+MMMM?|MMMM?(\[[^\[\]]*\]|\s+)+D[oD]?/
+	            isFormat: /D[oD]?(\[[^\[\]]*\]|\s)+MMMM?|MMMM?(\[[^\[\]]*\]|\s)+D[oD]?/
 	        },
 	        monthsShort : 'sau_vas_kov_bal_geg_bir_lie_rgp_rgs_spa_lap_grd'.split('_'),
 	        weekdays : {
@@ -58664,13 +58662,12 @@
 	}
 
 	function isDayDisabled(day) {
-	  var _ref = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : {};
-
-	  var minDate = _ref.minDate;
-	  var maxDate = _ref.maxDate;
-	  var excludeDates = _ref.excludeDates;
-	  var includeDates = _ref.includeDates;
-	  var filterDate = _ref.filterDate;
+	  var _ref = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : {},
+	      minDate = _ref.minDate,
+	      maxDate = _ref.maxDate,
+	      excludeDates = _ref.excludeDates,
+	      includeDates = _ref.includeDates,
+	      filterDate = _ref.filterDate;
 
 	  return minDate && day.isBefore(minDate, 'day') || maxDate && day.isAfter(maxDate, 'day') || excludeDates && excludeDates.some(function (excludeDate) {
 	    return isSameDay(day, excludeDate);
@@ -58680,10 +58677,9 @@
 	}
 
 	function allDaysDisabledBefore(day, unit) {
-	  var _ref2 = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : {};
-
-	  var minDate = _ref2.minDate;
-	  var includeDates = _ref2.includeDates;
+	  var _ref2 = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : {},
+	      minDate = _ref2.minDate,
+	      includeDates = _ref2.includeDates;
 
 	  var dateBefore = day.clone().subtract(1, unit);
 	  return minDate && dateBefore.isBefore(minDate, unit) || includeDates && includeDates.every(function (includeDate) {
@@ -58692,10 +58688,9 @@
 	}
 
 	function allDaysDisabledAfter(day, unit) {
-	  var _ref3 = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : {};
-
-	  var maxDate = _ref3.maxDate;
-	  var includeDates = _ref3.includeDates;
+	  var _ref3 = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : {},
+	      maxDate = _ref3.maxDate,
+	      includeDates = _ref3.includeDates;
 
 	  var dateAfter = day.clone().add(1, unit);
 	  return maxDate && dateAfter.isAfter(maxDate, unit) || includeDates && includeDates.every(function (includeDate) {
@@ -58704,8 +58699,8 @@
 	}
 
 	function getEffectiveMinDate(_ref4) {
-	  var minDate = _ref4.minDate;
-	  var includeDates = _ref4.includeDates;
+	  var minDate = _ref4.minDate,
+	      includeDates = _ref4.includeDates;
 
 	  if (includeDates && minDate) {
 	    return _moment2.default.min(includeDates.filter(function (includeDate) {
@@ -58719,8 +58714,8 @@
 	}
 
 	function getEffectiveMaxDate(_ref5) {
-	  var maxDate = _ref5.maxDate;
-	  var includeDates = _ref5.includeDates;
+	  var maxDate = _ref5.maxDate,
+	      includeDates = _ref5.includeDates;
 
 	  if (includeDates && maxDate) {
 	    return _moment2.default.max(includeDates.filter(function (includeDate) {
@@ -58759,11 +58754,11 @@
 
 	var _year_dropdown2 = _interopRequireDefault(_year_dropdown);
 
-	var _month_dropdown = __webpack_require__(605);
+	var _month_dropdown = __webpack_require__(606);
 
 	var _month_dropdown2 = _interopRequireDefault(_month_dropdown);
 
-	var _month = __webpack_require__(609);
+	var _month = __webpack_require__(610);
 
 	var _month2 = _interopRequireDefault(_month);
 
@@ -58778,7 +58773,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/src/calendar.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/src/calendar.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -58805,7 +58800,7 @@
 	  displayName: 'Calendar',
 
 	  propTypes: {
-	    dateFormat: _react3.default.PropTypes.string.isRequired,
+	    dateFormat: _react3.default.PropTypes.oneOfType([_react3.default.PropTypes.string, _react3.default.PropTypes.array]).isRequired,
 	    dropdownMode: _react3.default.PropTypes.oneOf(['scroll', 'select']).isRequired,
 	    endDate: _react3.default.PropTypes.object,
 	    excludeDates: _react3.default.PropTypes.array,
@@ -58816,23 +58811,25 @@
 	    locale: _react3.default.PropTypes.string,
 	    maxDate: _react3.default.PropTypes.object,
 	    minDate: _react3.default.PropTypes.object,
-	    months: _react3.default.PropTypes.number,
+	    monthsShown: _react3.default.PropTypes.number,
 	    onClickOutside: _react3.default.PropTypes.func.isRequired,
 	    onDropdownFocus: _react3.default.PropTypes.func,
 	    onSelect: _react3.default.PropTypes.func.isRequired,
 	    openToDate: _react3.default.PropTypes.object,
 	    peekNextMonth: _react3.default.PropTypes.bool,
+	    scrollableYearDropdown: _react3.default.PropTypes.bool,
 	    selected: _react3.default.PropTypes.object,
 	    selectsEnd: _react3.default.PropTypes.bool,
 	    selectsStart: _react3.default.PropTypes.bool,
 	    showMonthDropdown: _react3.default.PropTypes.bool,
+	    showWeekNumbers: _react3.default.PropTypes.bool,
 	    showYearDropdown: _react3.default.PropTypes.bool,
 	    startDate: _react3.default.PropTypes.object,
 	    todayButton: _react3.default.PropTypes.string,
 	    utcOffset: _react3.default.PropTypes.number
 	  },
 
-	  mixins: [__webpack_require__(604)],
+	  mixins: [__webpack_require__(605)],
 
 	  defaultProps: {
 	    onDropdownFocus: function onDropdownFocus() {}
@@ -58841,7 +58838,7 @@
 	  getDefaultProps: function getDefaultProps() {
 	    return {
 	      utcOffset: _moment2.default.utc().utcOffset(),
-	      months: 1
+	      monthsShown: 1
 	    };
 	  },
 	  getInitialState: function getInitialState() {
@@ -58870,10 +58867,10 @@
 	    }
 	  },
 	  getDateInView: function getDateInView() {
-	    var _props = this.props;
-	    var selected = _props.selected;
-	    var openToDate = _props.openToDate;
-	    var utcOffset = _props.utcOffset;
+	    var _props = this.props,
+	        selected = _props.selected,
+	        openToDate = _props.openToDate,
+	        utcOffset = _props.utcOffset;
 
 	    var minDate = (0, _date_utils.getEffectiveMinDate)(this.props);
 	    var maxDate = (0, _date_utils.getEffectiveMaxDate)(this.props);
@@ -58929,15 +58926,25 @@
 	    });
 	  },
 	  header: function header() {
-	    var startOfWeek = this.state.date.clone().startOf('week');
-	    return [0, 1, 2, 3, 4, 5, 6].map(function (offset) {
+	    var date = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : this.state.date;
+
+	    var startOfWeek = date.clone().startOf('week');
+	    var dayNames = [];
+	    if (this.props.showWeekNumbers) {
+	      dayNames.push(_react3.default.createElement(
+	        'div',
+	        { key: 'W', className: 'react-datepicker__day-name' },
+	        '#'
+	      ));
+	    }
+	    return dayNames.concat([0, 1, 2, 3, 4, 5, 6].map(function (offset) {
 	      var day = startOfWeek.clone().add(offset, 'days');
 	      return _react3.default.createElement(
 	        'div',
 	        { key: offset, className: 'react-datepicker__day-name' },
 	        day.localeData().weekdaysMin(day)
 	      );
-	    });
+	    }));
 	  },
 	  renderPreviousMonthButton: function renderPreviousMonthButton() {
 	    if ((0, _date_utils.allDaysDisabledBefore)(this.state.date, 'month', this.props)) {
@@ -58956,6 +58963,8 @@
 	      onClick: this.increaseMonth });
 	  },
 	  renderCurrentMonth: function renderCurrentMonth() {
+	    var date = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : this.state.date;
+
 	    var classes = ['react-datepicker__current-month'];
 	    if (this.props.showYearDropdown) {
 	      classes.push('react-datepicker__current-month--hasYearDropdown');
@@ -58963,11 +58972,13 @@
 	    return _react3.default.createElement(
 	      'div',
 	      { className: classes.join(' ') },
-	      this.state.date.format(this.props.dateFormat)
+	      date.format(this.props.dateFormat)
 	    );
 	  },
 	  renderYearDropdown: function renderYearDropdown() {
-	    if (!this.props.showYearDropdown) {
+	    var overrideHide = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : false;
+
+	    if (!this.props.showYearDropdown || overrideHide) {
 	      return;
 	    }
 	    return _react3.default.createElement(_year_dropdown2.default, {
@@ -58975,9 +58986,12 @@
 	      onChange: this.changeYear,
 	      minDate: this.props.minDate,
 	      maxDate: this.props.maxDate,
-	      year: this.state.date.year() });
+	      year: this.state.date.year(),
+	      scrollableYearDropdown: this.props.scrollableYearDropdown });
 	  },
 	  renderMonthDropdown: function renderMonthDropdown() {
+	    var overrideHide = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : false;
+
 	    if (!this.props.showMonthDropdown) {
 	      return;
 	    }
@@ -59003,28 +59017,52 @@
 	  },
 	  renderMonths: function renderMonths() {
 	    var monthList = [];
-	    for (var i = 0; i < this.props.months; ++i) {
+	    for (var i = 0; i < this.props.monthsShown; ++i) {
 	      var monthDate = this.state.date.clone().add(i, 'M');
-	      monthList.push(_react3.default.createElement(_month2.default, {
-	        day: monthDate,
-	        onDayClick: this.handleDayClick,
-	        onDayMouseEnter: this.handleDayMouseEnter,
-	        onMouseLeave: this.handleMonthMouseLeave,
-	        minDate: this.props.minDate,
-	        maxDate: this.props.maxDate,
-	        excludeDates: this.props.excludeDates,
-	        highlightDates: this.props.highlightDates,
-	        selectingDate: this.state.selectingDate,
-	        includeDates: this.props.includeDates,
-	        fixedHeight: this.props.fixedHeight,
-	        filterDate: this.props.filterDate,
-	        selected: this.props.selected,
-	        selectsStart: this.props.selectsStart,
-	        selectsEnd: this.props.selectsEnd,
-	        startDate: this.props.startDate,
-	        endDate: this.props.endDate,
-	        peekNextMonth: this.props.peekNextMonth,
-	        utcOffset: this.props.utcOffset }));
+	      var monthKey = 'month-' + i;
+	      monthList.push(_react3.default.createElement(
+	        'div',
+	        { key: monthKey, className: 'react-datepicker__month-container' },
+	        _react3.default.createElement(
+	          'div',
+	          { className: 'react-datepicker__header' },
+	          this.renderCurrentMonth(monthDate),
+	          _react3.default.createElement(
+	            'div',
+	            {
+	              className: 'react-datepicker__header__dropdown react-datepicker__header__dropdown--' + this.props.dropdownMode,
+	              onFocus: this.handleDropdownFocus },
+	            this.renderMonthDropdown(i !== 0),
+	            this.renderYearDropdown(i !== 0)
+	          ),
+	          _react3.default.createElement(
+	            'div',
+	            { className: 'react-datepicker__day-names' },
+	            this.header(monthDate)
+	          )
+	        ),
+	        _react3.default.createElement(_month2.default, {
+	          day: monthDate,
+	          onDayClick: this.handleDayClick,
+	          onDayMouseEnter: this.handleDayMouseEnter,
+	          onMouseLeave: this.handleMonthMouseLeave,
+	          minDate: this.props.minDate,
+	          maxDate: this.props.maxDate,
+	          excludeDates: this.props.excludeDates,
+	          highlightDates: this.props.highlightDates,
+	          selectingDate: this.state.selectingDate,
+	          includeDates: this.props.includeDates,
+	          fixedHeight: this.props.fixedHeight,
+	          filterDate: this.props.filterDate,
+	          selected: this.props.selected,
+	          selectsStart: this.props.selectsStart,
+	          selectsEnd: this.props.selectsEnd,
+	          showWeekNumbers: this.props.showWeekNumbers,
+	          startDate: this.props.startDate,
+	          endDate: this.props.endDate,
+	          peekNextMonth: this.props.peekNextMonth,
+	          utcOffset: this.props.utcOffset })
+	      ));
 	    }
 	    return monthList;
 	  },
@@ -59033,26 +59071,8 @@
 	      'div',
 	      { className: 'react-datepicker' },
 	      _react3.default.createElement('div', { className: 'react-datepicker__triangle' }),
-	      _react3.default.createElement(
-	        'div',
-	        { className: 'react-datepicker__header' },
-	        this.renderPreviousMonthButton(),
-	        this.renderCurrentMonth(),
-	        _react3.default.createElement(
-	          'div',
-	          {
-	            className: 'react-datepicker__header__dropdown react-datepicker__header__dropdown--' + this.props.dropdownMode,
-	            onFocus: this.handleDropdownFocus },
-	          this.renderMonthDropdown(),
-	          this.renderYearDropdown()
-	        ),
-	        this.renderNextMonthButton(),
-	        _react3.default.createElement(
-	          'div',
-	          { className: 'react-datepicker__day-names' },
-	          this.header()
-	        )
-	      ),
+	      this.renderPreviousMonthButton(),
+	      this.renderNextMonthButton(),
 	      this.renderMonths(),
 	      this.renderTodayButton()
 	    );
@@ -59089,7 +59109,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/src/year_dropdown.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/src/year_dropdown.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -59109,6 +59129,7 @@
 	    maxDate: _react3.default.PropTypes.object,
 	    minDate: _react3.default.PropTypes.object,
 	    onChange: _react3.default.PropTypes.func.isRequired,
+	    scrollableYearDropdown: _react3.default.PropTypes.bool,
 	    year: _react3.default.PropTypes.number.isRequired
 	  },
 
@@ -59161,7 +59182,8 @@
 	      ref: 'options',
 	      year: this.props.year,
 	      onChange: this.onChange,
-	      onCancel: this.toggleDropdown });
+	      onCancel: this.toggleDropdown,
+	      scrollableYearDropdown: this.props.scrollableYearDropdown });
 	  },
 	  renderScrollMode: function renderScrollMode() {
 	    return this.state.dropdownVisible ? this.renderDropdown() : this.renderReadView();
@@ -59213,6 +59235,10 @@
 
 	var _reactTransformHmr4 = _interopRequireDefault(_reactTransformHmr3);
 
+	var _classnames = __webpack_require__(604);
+
+	var _classnames2 = _interopRequireDefault(_classnames);
+
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 	var _components = {
@@ -59222,7 +59248,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/src/year_dropdown_options.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/src/year_dropdown_options.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -59234,9 +59260,9 @@
 	  };
 	}
 
-	function generateYears(year) {
+	function generateYears(year, noOfYear) {
 	  var list = [];
-	  for (var i = 0; i < 5; i++) {
+	  for (var i = 0; i < noOfYear; i++) {
 	    list.push(year - i);
 	  }
 	  return list;
@@ -59248,14 +59274,15 @@
 	  propTypes: {
 	    onCancel: _react3.default.PropTypes.func.isRequired,
 	    onChange: _react3.default.PropTypes.func.isRequired,
+	    scrollableYearDropdown: _react3.default.PropTypes.bool,
 	    year: _react3.default.PropTypes.number.isRequired
 	  },
 
-	  mixins: [__webpack_require__(604)],
+	  mixins: [__webpack_require__(605)],
 
 	  getInitialState: function getInitialState() {
 	    return {
-	      yearsList: generateYears(this.props.year)
+	      yearsList: this.props.scrollableYearDropdown ? generateYears(this.props.year, 50) : generateYears(this.props.year, 5)
 	    };
 	  },
 	  renderOptions: function renderOptions() {
@@ -59281,16 +59308,16 @@
 	    options.unshift(_react3.default.createElement(
 	      'div',
 	      { className: 'react-datepicker__year-option',
-	        ref: "upcoming",
-	        key: "upcoming",
+	        ref: 'upcoming',
+	        key: 'upcoming',
 	        onClick: this.incrementYears },
 	      _react3.default.createElement('a', { className: 'react-datepicker__navigation react-datepicker__navigation--years react-datepicker__navigation--years-upcoming' })
 	    ));
 	    options.push(_react3.default.createElement(
 	      'div',
 	      { className: 'react-datepicker__year-option',
-	        ref: "previous",
-	        key: "previous",
+	        ref: 'previous',
+	        key: 'previous',
 	        onClick: this.decrementYears },
 	      _react3.default.createElement('a', { className: 'react-datepicker__navigation react-datepicker__navigation--years react-datepicker__navigation--years-previous' })
 	    ));
@@ -59318,9 +59345,14 @@
 	    return this.shiftYears(-1);
 	  },
 	  render: function render() {
+	    var dropdownClass = (0, _classnames2.default)({
+	      'react-datepicker__year-dropdown': true,
+	      'react-datepicker__year-dropdown--scrollable': this.props.scrollableYearDropdown
+	    });
+
 	    return _react3.default.createElement(
 	      'div',
-	      { className: 'react-datepicker__year-dropdown' },
+	      { className: dropdownClass },
 	      this.renderOptions()
 	    );
 	  }
@@ -59331,6 +59363,60 @@
 
 /***/ },
 /* 604 */
+/***/ function(module, exports, __webpack_require__) {
+
+	var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*!
+	  Copyright (c) 2016 Jed Watson.
+	  Licensed under the MIT License (MIT), see
+	  http://jedwatson.github.io/classnames
+	*/
+	/* global define */
+
+	(function () {
+		'use strict';
+
+		var hasOwn = {}.hasOwnProperty;
+
+		function classNames () {
+			var classes = [];
+
+			for (var i = 0; i < arguments.length; i++) {
+				var arg = arguments[i];
+				if (!arg) continue;
+
+				var argType = typeof arg;
+
+				if (argType === 'string' || argType === 'number') {
+					classes.push(arg);
+				} else if (Array.isArray(arg)) {
+					classes.push(classNames.apply(null, arg));
+				} else if (argType === 'object') {
+					for (var key in arg) {
+						if (hasOwn.call(arg, key) && arg[key]) {
+							classes.push(key);
+						}
+					}
+				}
+			}
+
+			return classes.join(' ');
+		}
+
+		if (typeof module !== 'undefined' && module.exports) {
+			module.exports = classNames;
+		} else if (true) {
+			// register as 'classnames', consistent with npm package name
+			!(__WEBPACK_AMD_DEFINE_ARRAY__ = [], __WEBPACK_AMD_DEFINE_RESULT__ = function () {
+				return classNames;
+			}.apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__), __WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
+		} else {
+			window.classNames = classNames;
+		}
+	}());
+
+
+/***/ },
+/* 605 */
 /***/ function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/**
@@ -59468,7 +59554,7 @@
 
 
 /***/ },
-/* 605 */
+/* 606 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
@@ -59485,7 +59571,7 @@
 
 	var _moment2 = _interopRequireDefault(_moment);
 
-	var _range = __webpack_require__(606);
+	var _range = __webpack_require__(607);
 
 	var _range2 = _interopRequireDefault(_range);
 
@@ -59498,7 +59584,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/src/month_dropdown.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/src/month_dropdown.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -59576,10 +59662,10 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
 
 /***/ },
-/* 606 */
+/* 607 */
 /***/ function(module, exports, __webpack_require__) {
 
-	var createRange = __webpack_require__(607);
+	var createRange = __webpack_require__(608);
 
 	/**
 	 * Creates an array of numbers (positive and/or negative) progressing from
@@ -59628,10 +59714,10 @@
 
 
 /***/ },
-/* 607 */
+/* 608 */
 /***/ function(module, exports, __webpack_require__) {
 
-	var baseRange = __webpack_require__(608),
+	var baseRange = __webpack_require__(609),
 	    isIterateeCall = __webpack_require__(306),
 	    toFinite = __webpack_require__(290);
 
@@ -59664,7 +59750,7 @@
 
 
 /***/ },
-/* 608 */
+/* 609 */
 /***/ function(module, exports) {
 
 	/* Built-in method references for those with the same name as other `lodash` methods. */
@@ -59698,7 +59784,7 @@
 
 
 /***/ },
-/* 609 */
+/* 610 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
@@ -59711,7 +59797,7 @@
 
 	var _reactTransformHmr4 = _interopRequireDefault(_reactTransformHmr3);
 
-	var _classnames = __webpack_require__(610);
+	var _classnames = __webpack_require__(604);
 
 	var _classnames2 = _interopRequireDefault(_classnames);
 
@@ -59728,7 +59814,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/src/month.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/src/month.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -59763,6 +59849,7 @@
 	    selectingDate: _react3.default.PropTypes.object,
 	    selectsEnd: _react3.default.PropTypes.bool,
 	    selectsStart: _react3.default.PropTypes.bool,
+	    showWeekNumbers: _react3.default.PropTypes.bool,
 	    startDate: _react3.default.PropTypes.object,
 	    utcOffset: _react3.default.PropTypes.number
 	  },
@@ -59811,6 +59898,7 @@
 	        selected: this.props.selected,
 	        selectsStart: this.props.selectsStart,
 	        selectsEnd: this.props.selectsEnd,
+	        showWeekNumber: this.props.showWeekNumbers,
 	        startDate: this.props.startDate,
 	        endDate: this.props.endDate,
 	        utcOffset: this.props.utcOffset }));
@@ -59837,10 +59925,10 @@
 	    return weeks;
 	  },
 	  getClassNames: function getClassNames() {
-	    var _props = this.props;
-	    var selectingDate = _props.selectingDate;
-	    var selectsStart = _props.selectsStart;
-	    var selectsEnd = _props.selectsEnd;
+	    var _props = this.props,
+	        selectingDate = _props.selectingDate,
+	        selectsStart = _props.selectsStart,
+	        selectsEnd = _props.selectsEnd;
 
 	    return (0, _classnames2.default)('react-datepicker__month', {
 	      'react-datepicker__month--selecting-range': selectingDate && (selectsStart || selectsEnd)
@@ -59857,60 +59945,6 @@
 
 	module.exports = Month;
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
-
-/***/ },
-/* 610 */
-/***/ function(module, exports, __webpack_require__) {
-
-	var __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/*!
-	  Copyright (c) 2016 Jed Watson.
-	  Licensed under the MIT License (MIT), see
-	  http://jedwatson.github.io/classnames
-	*/
-	/* global define */
-
-	(function () {
-		'use strict';
-
-		var hasOwn = {}.hasOwnProperty;
-
-		function classNames () {
-			var classes = [];
-
-			for (var i = 0; i < arguments.length; i++) {
-				var arg = arguments[i];
-				if (!arg) continue;
-
-				var argType = typeof arg;
-
-				if (argType === 'string' || argType === 'number') {
-					classes.push(arg);
-				} else if (Array.isArray(arg)) {
-					classes.push(classNames.apply(null, arg));
-				} else if (argType === 'object') {
-					for (var key in arg) {
-						if (hasOwn.call(arg, key) && arg[key]) {
-							classes.push(key);
-						}
-					}
-				}
-			}
-
-			return classes.join(' ');
-		}
-
-		if (typeof module !== 'undefined' && module.exports) {
-			module.exports = classNames;
-		} else if (true) {
-			// register as 'classnames', consistent with npm package name
-			!(__WEBPACK_AMD_DEFINE_ARRAY__ = [], __WEBPACK_AMD_DEFINE_RESULT__ = function () {
-				return classNames;
-			}.apply(exports, __WEBPACK_AMD_DEFINE_ARRAY__), __WEBPACK_AMD_DEFINE_RESULT__ !== undefined && (module.exports = __WEBPACK_AMD_DEFINE_RESULT__));
-		} else {
-			window.classNames = classNames;
-		}
-	}());
-
 
 /***/ },
 /* 611 */
@@ -59930,6 +59964,10 @@
 
 	var _day2 = _interopRequireDefault(_day);
 
+	var _week_number = __webpack_require__(613);
+
+	var _week_number2 = _interopRequireDefault(_week_number);
+
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 	var _components = {
@@ -59939,7 +59977,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/src/week.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/src/week.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -59970,6 +60008,7 @@
 	    selectingDate: _react3.default.PropTypes.object,
 	    selectsEnd: _react3.default.PropTypes.bool,
 	    selectsStart: _react3.default.PropTypes.bool,
+	    showWeekNumber: _react3.default.PropTypes.bool,
 	    startDate: _react3.default.PropTypes.object,
 	    utcOffset: _react3.default.PropTypes.number
 	  },
@@ -59988,7 +60027,11 @@
 	    var _this = this;
 
 	    var startOfWeek = this.props.day.clone().startOf('week');
-	    return [0, 1, 2, 3, 4, 5, 6].map(function (offset) {
+	    var days = [];
+	    if (this.props.showWeekNumber) {
+	      days.push(_react3.default.createElement(_week_number2.default, { key: 'W', weekNumber: parseInt(startOfWeek.format('w'), 10) }));
+	    }
+	    return days.concat([0, 1, 2, 3, 4, 5, 6].map(function (offset) {
 	      var day = startOfWeek.clone().add(offset, 'days');
 	      return _react3.default.createElement(_day2.default, {
 	        key: offset,
@@ -60009,7 +60052,7 @@
 	        startDate: _this.props.startDate,
 	        endDate: _this.props.endDate,
 	        utcOffset: _this.props.utcOffset });
-	    });
+	    }));
 	  },
 	  render: function render() {
 	    return _react3.default.createElement(
@@ -60041,7 +60084,7 @@
 
 	var _moment2 = _interopRequireDefault(_moment);
 
-	var _classnames = __webpack_require__(610);
+	var _classnames = __webpack_require__(604);
 
 	var _classnames2 = _interopRequireDefault(_classnames);
 
@@ -60056,7 +60099,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/src/day.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/src/day.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -60112,9 +60155,9 @@
 	    return (0, _date_utils.isDayDisabled)(this.props.day, this.props);
 	  },
 	  isHighlighted: function isHighlighted() {
-	    var _props = this.props;
-	    var day = _props.day;
-	    var highlightDates = _props.highlightDates;
+	    var _props = this.props,
+	        day = _props.day,
+	        highlightDates = _props.highlightDates;
 
 	    if (!highlightDates) return false;
 	    return highlightDates.some(function (testDay) {
@@ -60122,22 +60165,22 @@
 	    });
 	  },
 	  isInRange: function isInRange() {
-	    var _props2 = this.props;
-	    var day = _props2.day;
-	    var startDate = _props2.startDate;
-	    var endDate = _props2.endDate;
+	    var _props2 = this.props,
+	        day = _props2.day,
+	        startDate = _props2.startDate,
+	        endDate = _props2.endDate;
 
 	    if (!startDate || !endDate) return false;
 	    return (0, _date_utils.isDayInRange)(day, startDate, endDate);
 	  },
 	  isInSelectingRange: function isInSelectingRange() {
-	    var _props3 = this.props;
-	    var day = _props3.day;
-	    var selectsStart = _props3.selectsStart;
-	    var selectsEnd = _props3.selectsEnd;
-	    var selectingDate = _props3.selectingDate;
-	    var startDate = _props3.startDate;
-	    var endDate = _props3.endDate;
+	    var _props3 = this.props,
+	        day = _props3.day,
+	        selectsStart = _props3.selectsStart,
+	        selectsEnd = _props3.selectsEnd,
+	        selectingDate = _props3.selectingDate,
+	        startDate = _props3.startDate,
+	        endDate = _props3.endDate;
 
 
 	    if (!(selectsStart || selectsEnd) || !selectingDate || this.isDisabled()) {
@@ -60159,11 +60202,11 @@
 	      return false;
 	    }
 
-	    var _props4 = this.props;
-	    var day = _props4.day;
-	    var selectingDate = _props4.selectingDate;
-	    var startDate = _props4.startDate;
-	    var selectsStart = _props4.selectsStart;
+	    var _props4 = this.props,
+	        day = _props4.day,
+	        selectingDate = _props4.selectingDate,
+	        startDate = _props4.startDate,
+	        selectsStart = _props4.selectsStart;
 
 
 	    if (selectsStart) {
@@ -60177,11 +60220,11 @@
 	      return false;
 	    }
 
-	    var _props5 = this.props;
-	    var day = _props5.day;
-	    var selectingDate = _props5.selectingDate;
-	    var endDate = _props5.endDate;
-	    var selectsEnd = _props5.selectsEnd;
+	    var _props5 = this.props,
+	        day = _props5.day,
+	        selectingDate = _props5.selectingDate,
+	        endDate = _props5.endDate,
+	        selectsEnd = _props5.selectsEnd;
 
 
 	    if (selectsEnd) {
@@ -60191,19 +60234,19 @@
 	    }
 	  },
 	  isRangeStart: function isRangeStart() {
-	    var _props6 = this.props;
-	    var day = _props6.day;
-	    var startDate = _props6.startDate;
-	    var endDate = _props6.endDate;
+	    var _props6 = this.props,
+	        day = _props6.day,
+	        startDate = _props6.startDate,
+	        endDate = _props6.endDate;
 
 	    if (!startDate || !endDate) return false;
 	    return (0, _date_utils.isSameDay)(startDate, day);
 	  },
 	  isRangeEnd: function isRangeEnd() {
-	    var _props7 = this.props;
-	    var day = _props7.day;
-	    var startDate = _props7.startDate;
-	    var endDate = _props7.endDate;
+	    var _props7 = this.props,
+	        day = _props7.day,
+	        startDate = _props7.startDate,
+	        endDate = _props7.endDate;
 
 	    if (!startDate || !endDate) return false;
 	    return (0, _date_utils.isSameDay)(endDate, day);
@@ -60252,7 +60295,63 @@
 /* 613 */
 /***/ function(module, exports, __webpack_require__) {
 
-	var baseDelay = __webpack_require__(614),
+	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
+
+	var _react2 = __webpack_require__(2);
+
+	var _react3 = _interopRequireDefault(_react2);
+
+	var _reactTransformHmr3 = __webpack_require__(175);
+
+	var _reactTransformHmr4 = _interopRequireDefault(_reactTransformHmr3);
+
+	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+	var _components = {
+	  WeekNumber: {
+	    displayName: 'WeekNumber'
+	  }
+	};
+
+	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/src/week_number.jsx',
+	  components: _components,
+	  locals: [module],
+	  imports: [_react3.default]
+	});
+
+	function _wrapComponent(id) {
+	  return function (Component) {
+	    return _reactTransformHmr2(Component, id);
+	  };
+	}
+
+	var WeekNumber = _wrapComponent('WeekNumber')(_react3.default.createClass({
+	  displayName: 'WeekNumber',
+
+	  propTypes: {
+	    weekNumber: _react3.default.PropTypes.number.isRequired
+	  },
+
+	  render: function render() {
+	    return _react3.default.createElement(
+	      'div',
+	      {
+	        className: 'react-datepicker__week-number',
+	        'aria-label': 'week-' + this.props.weekNumber },
+	      this.props.weekNumber
+	    );
+	  }
+	}));
+
+	module.exports = WeekNumber;
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
+
+/***/ },
+/* 614 */
+/***/ function(module, exports, __webpack_require__) {
+
+	var baseDelay = __webpack_require__(615),
 	    baseRest = __webpack_require__(299);
 
 	/**
@@ -60281,7 +60380,7 @@
 
 
 /***/ },
-/* 614 */
+/* 615 */
 /***/ function(module, exports) {
 
 	/** Error message constants. */
@@ -60308,7 +60407,7 @@
 
 
 /***/ },
-/* 615 */
+/* 616 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
@@ -60327,7 +60426,7 @@
 
 	var _reactDom2 = _interopRequireDefault(_reactDom);
 
-	var _tether = __webpack_require__(616);
+	var _tether = __webpack_require__(617);
 
 	var _tether2 = _interopRequireDefault(_tether);
 
@@ -60342,7 +60441,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/src/tether_component.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/src/tether_component.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -60430,10 +60529,10 @@
 	  _update: function _update() {
 	    var _this = this;
 
-	    var _props = this.props;
-	    var children = _props.children;
-	    var renderElementTag = _props.renderElementTag;
-	    var renderElementTo = _props.renderElementTo;
+	    var _props = this.props,
+	        children = _props.children,
+	        renderElementTag = _props.renderElementTag,
+	        renderElementTo = _props.renderElementTo;
 
 	    var elementComponent = children[1];
 
@@ -60463,11 +60562,10 @@
 	    });
 	  },
 	  _updateTether: function _updateTether() {
-	    var _props2 = this.props;
-	    var renderElementTag = _props2.renderElementTag;
-	    var renderElementTo = _props2.renderElementTo;
-
-	    var options = _objectWithoutProperties(_props2, ['renderElementTag', 'renderElementTo']); // eslint-disable-line no-unused-vars
+	    var _props2 = this.props,
+	        renderElementTag = _props2.renderElementTag,
+	        renderElementTo = _props2.renderElementTo,
+	        options = _objectWithoutProperties(_props2, ['renderElementTag', 'renderElementTo']); // eslint-disable-line no-unused-vars
 
 
 	    var tetherOptions = _extends({
@@ -60505,7 +60603,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
 
 /***/ },
-/* 616 */
+/* 617 */
 /***/ function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_RESULT__;/*! tether 1.3.7 */
@@ -62318,7 +62416,7 @@
 
 
 /***/ },
-/* 617 */
+/* 618 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
@@ -62344,7 +62442,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/code_example_component.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/code_example_component.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -62381,7 +62479,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
 
 /***/ },
-/* 618 */
+/* 619 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
@@ -62415,7 +62513,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/custom_date_format.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/custom_date_format.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -62450,20 +62548,17 @@
 	        _react3.default.createElement(
 	          'code',
 	          { className: 'jsx' },
-	          "<DatePicker",
+	          '<DatePicker',
 	          _react3.default.createElement('br', null),
 	          _react3.default.createElement(
 	            'strong',
 	            null,
-	            '\xA0 \xA0 ',
-	            "dateFormat=\"YYYY/MM/DD\""
+	            'dateFormat="YYYY/MM/DD"'
 	          ),
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.startDate}",
+	          'selected={this.state.startDate}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChange} />"
+	          'onChange={this.handleChange} />'
 	        )
 	      ),
 	      _react3.default.createElement(
@@ -62480,7 +62575,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
 
 /***/ },
-/* 619 */
+/* 620 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
@@ -62514,7 +62609,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/custom_class_name.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/custom_class_name.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -62549,17 +62644,14 @@
 	        _react3.default.createElement(
 	          'code',
 	          { className: 'jsx' },
-	          "<DatePicker",
+	          '<DatePicker',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.startDate}",
+	          'selected={this.state.startDate}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChange}",
+	          'onChange={this.handleChange}',
 	          ' ',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "className='red-border' />"
+	          'className="red-border" />'
 	        )
 	      ),
 	      _react3.default.createElement(
@@ -62576,7 +62668,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
 
 /***/ },
-/* 620 */
+/* 621 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
@@ -62606,7 +62698,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/placeholder_text.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/placeholder_text.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -62631,7 +62723,7 @@
 	        _react3.default.createElement(
 	          'code',
 	          { className: 'jsx' },
-	          "<DatePicker placeholderText=\"Click to select a date\" />"
+	          '<DatePicker placeholderText="Click to select a date" />'
 	        )
 	      ),
 	      _react3.default.createElement(
@@ -62645,7 +62737,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
 
 /***/ },
-/* 621 */
+/* 622 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
@@ -62679,7 +62771,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/specific_date_range.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/specific_date_range.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -62714,30 +62806,26 @@
 	        _react3.default.createElement(
 	          'code',
 	          { className: 'jsx' },
-	          "<DatePicker",
+	          '<DatePicker',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.startDate}",
+	          'selected={this.state.startDate}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChange}",
+	          'onChange={this.handleChange}',
 	          _react3.default.createElement('br', null),
 	          _react3.default.createElement(
 	            'strong',
 	            null,
-	            '\xA0 \xA0 ',
-	            "minDate={moment()}"
+	            'minDate={moment()}'
 	          ),
 	          _react3.default.createElement('br', null),
 	          _react3.default.createElement(
 	            'strong',
 	            null,
-	            '\xA0 \xA0 ',
-	            "maxDate={moment().add(5, 'days')}"
+	            'maxDate={moment().add(5, "days")}'
 	          ),
 	          _react3.default.createElement('br', null),
 	          '\xA0 \xA0 ',
-	          "placeholderText=\"Select a date between today and 5 days in the future\" />"
+	          'placeholderText="Select a date between today and 5 days in the future" />'
 	        )
 	      ),
 	      _react3.default.createElement(
@@ -62756,7 +62844,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
 
 /***/ },
-/* 622 */
+/* 623 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
@@ -62786,7 +62874,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/locale.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/locale.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -62821,23 +62909,20 @@
 	        _react3.default.createElement(
 	          'code',
 	          { className: 'jsx' },
-	          "<DatePicker",
+	          '<DatePicker',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.startDate}",
+	          'selected={this.state.startDate}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChange}",
+	          'onChange={this.handleChange}',
 	          _react3.default.createElement('br', null),
 	          _react3.default.createElement(
 	            'strong',
 	            null,
-	            '\xA0 \xA0 ',
-	            "locale='en-gb'"
+	            'locale="en-gb"'
 	          ),
 	          _react3.default.createElement('br', null),
 	          '\xA0 \xA0 ',
-	          "placeholderText='Weeks start on Monday' />"
+	          'placeholderText="Weeks start on Monday" />'
 	        )
 	      ),
 	      _react3.default.createElement(
@@ -62848,109 +62933,6 @@
 	          onChange: this.handleChange,
 	          locale: 'en-gb',
 	          placeholderText: 'Weeks start on Monday' })
-	      )
-	    );
-	  }
-	}));
-	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
-
-/***/ },
-/* 623 */
-/***/ function(module, exports, __webpack_require__) {
-
-	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
-
-	Object.defineProperty(exports, "__esModule", {
-	  value: true
-	});
-
-	var _react2 = __webpack_require__(2);
-
-	var _react3 = _interopRequireDefault(_react2);
-
-	var _reactTransformHmr3 = __webpack_require__(175);
-
-	var _reactTransformHmr4 = _interopRequireDefault(_reactTransformHmr3);
-
-	var _reactDatepicker = __webpack_require__(492);
-
-	var _reactDatepicker2 = _interopRequireDefault(_reactDatepicker);
-
-	var _moment = __webpack_require__(494);
-
-	var _moment2 = _interopRequireDefault(_moment);
-
-	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-	var _components = {
-	  ExcludeDates: {
-	    displayName: 'ExcludeDates'
-	  }
-	};
-
-	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/exclude_dates.jsx',
-	  components: _components,
-	  locals: [module],
-	  imports: [_react3.default]
-	});
-
-	function _wrapComponent(id) {
-	  return function (Component) {
-	    return _reactTransformHmr2(Component, id);
-	  };
-	}
-
-	exports.default = _wrapComponent('ExcludeDates')(_react3.default.createClass({
-	  displayName: 'ExcludeDates',
-
-	  getInitialState: function getInitialState() {
-	    return {
-	      startDate: null
-	    };
-	  },
-	  handleChange: function handleChange(date) {
-	    this.setState({
-	      startDate: date
-	    });
-	  },
-	  render: function render() {
-	    return _react3.default.createElement(
-	      'div',
-	      { className: 'row' },
-	      _react3.default.createElement(
-	        'pre',
-	        { className: 'column example__code' },
-	        _react3.default.createElement(
-	          'code',
-	          { className: 'jsx' },
-	          "<DatePicker",
-	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.startDate}",
-	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChange}",
-	          _react3.default.createElement('br', null),
-	          _react3.default.createElement(
-	            'strong',
-	            null,
-	            '\xA0 \xA0 ',
-	            "excludeDates={[moment(), moment().subtract(1, 'days')]}"
-	          ),
-	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "placeholderText=\"Select a date other than today or yesterday\" />"
-	        )
-	      ),
-	      _react3.default.createElement(
-	        'div',
-	        { className: 'column' },
-	        _react3.default.createElement(_reactDatepicker2.default, {
-	          selected: this.state.startDate,
-	          onChange: this.handleChange,
-	          excludeDates: [(0, _moment2.default)(), (0, _moment2.default)().subtract(1, 'days')],
-	          placeholderText: 'Select a date other than today or yesterday' })
 	      )
 	    );
 	  }
@@ -62986,13 +62968,13 @@
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 	var _components = {
-	  highlightDates: {
-	    displayName: 'highlightDates'
+	  ExcludeDates: {
+	    displayName: 'ExcludeDates'
 	  }
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/highlight_dates.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/exclude_dates.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -63004,8 +62986,8 @@
 	  };
 	}
 
-	exports.default = _wrapComponent('highlightDates')(_react3.default.createClass({
-	  displayName: 'highlightDates',
+	exports.default = _wrapComponent('ExcludeDates')(_react3.default.createClass({
+	  displayName: 'ExcludeDates',
 
 	  getInitialState: function getInitialState() {
 	    return {
@@ -63027,23 +63009,20 @@
 	        _react3.default.createElement(
 	          'code',
 	          { className: 'jsx' },
-	          "<DatePicker",
+	          '<DatePicker',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.startDate}",
+	          'selected={this.state.startDate}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChange}",
+	          'onChange={this.handleChange}',
 	          _react3.default.createElement('br', null),
 	          _react3.default.createElement(
 	            'strong',
 	            null,
-	            '\xA0 \xA0 ',
-	            "highlightDates={[moment().subtract(7, 'days'), moment().add(7, 'days')]}"
+	            'excludeDates={[moment(), moment().subtract(1, "days")]}'
 	          ),
 	          _react3.default.createElement('br', null),
 	          '\xA0 \xA0 ',
-	          "placeholderText=\"This highlights a week ago and a week from today\" />"
+	          'placeholderText="Select a date other than today or yesterday" />'
 	        )
 	      ),
 	      _react3.default.createElement(
@@ -63052,8 +63031,8 @@
 	        _react3.default.createElement(_reactDatepicker2.default, {
 	          selected: this.state.startDate,
 	          onChange: this.handleChange,
-	          highlightDates: [(0, _moment2.default)().subtract(7, 'days'), (0, _moment2.default)().add(7, 'days')],
-	          placeholderText: 'This highlights a week ago and a week from today' })
+	          excludeDates: [(0, _moment2.default)(), (0, _moment2.default)().subtract(1, 'days')],
+	          placeholderText: 'Select a date other than today or yesterday' })
 	      )
 	    );
 	  }
@@ -63089,13 +63068,113 @@
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 	var _components = {
+	  highlightDates: {
+	    displayName: 'highlightDates'
+	  }
+	};
+
+	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/highlight_dates.jsx',
+	  components: _components,
+	  locals: [module],
+	  imports: [_react3.default]
+	});
+
+	function _wrapComponent(id) {
+	  return function (Component) {
+	    return _reactTransformHmr2(Component, id);
+	  };
+	}
+
+	exports.default = _wrapComponent('highlightDates')(_react3.default.createClass({
+	  displayName: 'highlightDates',
+
+	  getInitialState: function getInitialState() {
+	    return {
+	      startDate: null
+	    };
+	  },
+	  handleChange: function handleChange(date) {
+	    this.setState({
+	      startDate: date
+	    });
+	  },
+	  render: function render() {
+	    return _react3.default.createElement(
+	      'div',
+	      { className: 'row' },
+	      _react3.default.createElement(
+	        'pre',
+	        { className: 'column example__code' },
+	        _react3.default.createElement(
+	          'code',
+	          { className: 'jsx' },
+	          '<DatePicker',
+	          _react3.default.createElement('br', null),
+	          'selected={this.state.startDate}',
+	          _react3.default.createElement('br', null),
+	          'onChange={this.handleChange}',
+	          _react3.default.createElement('br', null),
+	          _react3.default.createElement(
+	            'strong',
+	            null,
+	            'highlightDates={[moment().subtract(7, "days"), moment().add(7, "days")]}'
+	          ),
+	          _react3.default.createElement('br', null),
+	          '\xA0 \xA0 ',
+	          'placeholderText="This highlights a week ago and a week from today" />'
+	        )
+	      ),
+	      _react3.default.createElement(
+	        'div',
+	        { className: 'column' },
+	        _react3.default.createElement(_reactDatepicker2.default, {
+	          selected: this.state.startDate,
+	          onChange: this.handleChange,
+	          highlightDates: [(0, _moment2.default)().subtract(7, 'days'), (0, _moment2.default)().add(7, 'days')],
+	          placeholderText: 'This highlights a week ago and a week from today' })
+	      )
+	    );
+	  }
+	}));
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
+
+/***/ },
+/* 626 */
+/***/ function(module, exports, __webpack_require__) {
+
+	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
+
+	Object.defineProperty(exports, "__esModule", {
+	  value: true
+	});
+
+	var _react2 = __webpack_require__(2);
+
+	var _react3 = _interopRequireDefault(_react2);
+
+	var _reactTransformHmr3 = __webpack_require__(175);
+
+	var _reactTransformHmr4 = _interopRequireDefault(_reactTransformHmr3);
+
+	var _reactDatepicker = __webpack_require__(492);
+
+	var _reactDatepicker2 = _interopRequireDefault(_reactDatepicker);
+
+	var _moment = __webpack_require__(494);
+
+	var _moment2 = _interopRequireDefault(_moment);
+
+	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+	var _components = {
 	  includeDates: {
 	    displayName: 'includeDates'
 	  }
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/include_dates.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/include_dates.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -63130,23 +63209,20 @@
 	        _react3.default.createElement(
 	          'code',
 	          { className: 'jsx' },
-	          "<DatePicker",
+	          '<DatePicker',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.startDate}",
+	          'selected={this.state.startDate}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChange}",
+	          'onChange={this.handleChange}',
 	          _react3.default.createElement('br', null),
 	          _react3.default.createElement(
 	            'strong',
 	            null,
-	            '\xA0 \xA0 ',
-	            "includeDates={[moment(), moment().add(1, 'days')]}"
+	            'includeDates={[moment(), moment().add(1, "days")]}'
 	          ),
 	          _react3.default.createElement('br', null),
 	          '\xA0 \xA0 ',
-	          "placeholderText=\"This only includes today and tomorrow\" />"
+	          'placeholderText="This only includes today and tomorrow" />'
 	        )
 	      ),
 	      _react3.default.createElement(
@@ -63164,7 +63240,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
 
 /***/ },
-/* 626 */
+/* 627 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
@@ -63194,7 +63270,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/filter_dates.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/filter_dates.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -63233,23 +63309,20 @@
 	        _react3.default.createElement(
 	          'code',
 	          { className: 'jsx' },
-	          "<DatePicker",
+	          '<DatePicker',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.date}",
+	          'selected={this.state.date}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChange}",
+	          'onChange={this.handleChange}',
 	          _react3.default.createElement('br', null),
 	          _react3.default.createElement(
 	            'strong',
 	            null,
-	            '\xA0 \xA0 ',
-	            "filterDate={this.isWeekday}"
+	            'filterDate={this.isWeekday}'
 	          ),
 	          _react3.default.createElement('br', null),
 	          '\xA0 \xA0 ',
-	          "placeholderText=\"Select a weekday\" />"
+	          'placeholderText="Select a weekday" />'
 	        )
 	      ),
 	      _react3.default.createElement(
@@ -63267,7 +63340,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
 
 /***/ },
-/* 627 */
+/* 628 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
@@ -63297,7 +63370,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/disabled.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/disabled.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -63332,23 +63405,20 @@
 	        _react3.default.createElement(
 	          'code',
 	          { className: 'jsx' },
-	          "<DatePicker",
+	          '<DatePicker',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.startDate}",
+	          'selected={this.state.startDate}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChange}",
+	          'onChange={this.handleChange}',
 	          _react3.default.createElement('br', null),
 	          _react3.default.createElement(
 	            'strong',
 	            null,
-	            '\xA0 \xA0 ',
-	            "disabled={true}"
+	            'disabled={true}'
 	          ),
 	          _react3.default.createElement('br', null),
 	          '\xA0 \xA0 ',
-	          "placeholderText='This is disabled'",
+	          'placeholderText="This is disabled"',
 	          ' />'
 	        )
 	      ),
@@ -63367,7 +63437,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
 
 /***/ },
-/* 628 */
+/* 629 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
@@ -63401,7 +63471,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/clear_input.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/clear_input.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -63436,19 +63506,15 @@
 	        _react3.default.createElement(
 	          'code',
 	          { className: 'jsx' },
-	          "<DatePicker",
+	          '<DatePicker',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.startDate}",
+	          'selected={this.state.startDate}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChange}",
+	          'onChange={this.handleChange }',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "isClearable={true}",
+	          'isClearable={true}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "placeholderText='I have been cleared!' />"
+	          'placeholderText="I have been cleared!" />'
 	        )
 	      ),
 	      _react3.default.createElement(
@@ -63466,7 +63532,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
 
 /***/ },
-/* 629 */
+/* 630 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
@@ -63496,7 +63562,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/on_blur_callbacks.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/on_blur_callbacks.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -63542,52 +63608,42 @@
 	        _react3.default.createElement(
 	          'code',
 	          { className: 'js' },
-	          "handleOnBlur: function (date) {",
+	          'handleOnBlur: function (date) {',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "if (date === null) {",
+	          'if (date === null) {',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 \xA0 \xA0 ',
-	          "console.log('selected date: %s', date);",
+	          'console.log("selected date: %s", date);',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "}",
+	          '}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "else {",
+	          'else {',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 \xA0 \xA0 ',
-	          "console.log('selected date: %s', date.format('DD/MM/YYYY'));",
+	          'console.log("selected date: %s", date.format("DD/MM/YYYY"));',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "}",
+	          '}',
 	          _react3.default.createElement('br', null),
-	          "};"
+	          '};'
 	        ),
 	        _react3.default.createElement('br', null),
 	        _react3.default.createElement(
 	          'code',
 	          { className: 'jsx' },
-	          "<DatePicker",
+	          '<DatePicker',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "key='example9'",
+	          'key="example9"',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.startDate}",
+	          'selected={this.state.startDate}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChange}",
+	          'onChange={this.handleChange}',
 	          _react3.default.createElement('br', null),
 	          _react3.default.createElement(
 	            'strong',
 	            null,
-	            '\xA0 \xA0 ',
-	            "onBlur={this.handleOnBlur}"
+	            'onBlur={this.handleOnBlur}'
 	          ),
 	          _react3.default.createElement('br', null),
 	          '\xA0 \xA0 ',
-	          "placeholderText=\"View blur callbacks in console\" />"
+	          'placeholderText="View blur callbacks in console" />'
 	        )
 	      ),
 	      _react3.default.createElement(
@@ -63606,7 +63662,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
 
 /***/ },
-/* 630 */
+/* 631 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
@@ -63640,7 +63696,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/placement.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/placement.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -63675,22 +63731,17 @@
 	        _react3.default.createElement(
 	          'code',
 	          { className: 'jsx' },
-	          "<DatePicker",
+	          '<DatePicker',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.startDate}",
+	          'selected={this.state.startDate}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChange}",
+	          'onChange={this.handleChange}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "popoverAttachment='bottom center'",
+	          'popoverAttachment="bottom center"',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "popoverTargetAttachment='top center'",
+	          'popoverTargetAttachment="top center"',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "popoverTargetOffset='0px 0px' />"
+	          'popoverTargetOffset="0px 0px" />'
 	        )
 	      ),
 	      _react3.default.createElement(
@@ -63709,7 +63760,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
 
 /***/ },
-/* 631 */
+/* 632 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
@@ -63731,7 +63782,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/date_range.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/date_range.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -63758,8 +63809,8 @@
 	  },
 
 	  handleChange: function handleChange(_ref) {
-	    var startDate = _ref.startDate;
-	    var endDate = _ref.endDate;
+	    var startDate = _ref.startDate,
+	        endDate = _ref.endDate;
 
 	    startDate = startDate || this.state.startDate;
 	    endDate = endDate || this.state.endDate;
@@ -63791,37 +63842,29 @@
 	        React.createElement(
 	          'code',
 	          { className: 'jsx' },
-	          "<DatePicker",
+	          '<DatePicker',
 	          React.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.startDate}",
+	          'selected={this.state.startDate}',
 	          React.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selectsStart",
-	          '\xA0 \xA0 ',
-	          "startDate={this.state.startDate}",
+	          'selectsStart',
+	          '\xA0 ',
+	          'startDate={this.state.startDate}',
 	          React.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "endDate={this.state.endDate}",
+	          'endDate={this.state.endDate}',
 	          React.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChangeStart} />",
+	          'onChange={this.handleChangeStart} />',
 	          React.createElement('br', null),
-	          "<DatePicker",
+	          '<DatePicker',
 	          React.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.endDate}",
+	          'selected={this.state.endDate}',
 	          React.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selectsEnd",
-	          '\xA0 \xA0 ',
-	          "startDate={this.state.startDate}",
+	          'selectsEnd',
+	          '\xA0 ',
+	          'startDate={this.state.startDate}',
 	          React.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "endDate={this.state.endDate}",
+	          'endDate={this.state.endDate}',
 	          React.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChangeEnd} />",
+	          'onChange={this.handleChangeEnd} />',
 	          React.createElement('br', null)
 	        )
 	      ),
@@ -63849,7 +63892,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
 
 /***/ },
-/* 632 */
+/* 633 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
@@ -63883,7 +63926,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/tab_index.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/tab_index.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -63918,16 +63961,13 @@
 	        _react3.default.createElement(
 	          'code',
 	          { className: 'jsx' },
-	          "<DatePicker",
+	          '<DatePicker',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.startDate}",
+	          'selected={this.state.startDate}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChange}",
+	          'onChange={this.handleChange}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "tabIndex={1} />"
+	          'tabIndex={1} />'
 	        )
 	      ),
 	      _react3.default.createElement(
@@ -63937,107 +63977,6 @@
 	          selected: this.state.startDate,
 	          onChange: this.handleChange,
 	          tabIndex: 1 })
-	      )
-	    );
-	  }
-	}));
-	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
-
-/***/ },
-/* 633 */
-/***/ function(module, exports, __webpack_require__) {
-
-	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
-
-	Object.defineProperty(exports, "__esModule", {
-	  value: true
-	});
-
-	var _react2 = __webpack_require__(2);
-
-	var _react3 = _interopRequireDefault(_react2);
-
-	var _reactTransformHmr3 = __webpack_require__(175);
-
-	var _reactTransformHmr4 = _interopRequireDefault(_reactTransformHmr3);
-
-	var _reactDatepicker = __webpack_require__(492);
-
-	var _reactDatepicker2 = _interopRequireDefault(_reactDatepicker);
-
-	var _moment = __webpack_require__(494);
-
-	var _moment2 = _interopRequireDefault(_moment);
-
-	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-	var _components = {
-	  YearDropdown: {
-	    displayName: 'YearDropdown'
-	  }
-	};
-
-	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/year_dropdown.jsx',
-	  components: _components,
-	  locals: [module],
-	  imports: [_react3.default]
-	});
-
-	function _wrapComponent(id) {
-	  return function (Component) {
-	    return _reactTransformHmr2(Component, id);
-	  };
-	}
-
-	exports.default = _wrapComponent('YearDropdown')(_react3.default.createClass({
-	  displayName: 'YearDropdown',
-
-	  getInitialState: function getInitialState() {
-	    return {
-	      startDate: (0, _moment2.default)()
-	    };
-	  },
-	  handleChange: function handleChange(date) {
-	    this.setState({
-	      startDate: date
-	    });
-	  },
-	  render: function render() {
-	    return _react3.default.createElement(
-	      'div',
-	      { className: 'row' },
-	      _react3.default.createElement(
-	        'pre',
-	        { className: 'column example__code' },
-	        _react3.default.createElement(
-	          'code',
-	          { className: 'jsx' },
-	          "<DatePicker",
-	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.startDate}",
-	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChange}",
-	          ' ',
-	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "showYearDropdown",
-	          ' ',
-	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "dateFormatCalendar=\"MMMM\" />"
-	        )
-	      ),
-	      _react3.default.createElement(
-	        'div',
-	        { className: 'column' },
-	        _react3.default.createElement(_reactDatepicker2.default, {
-	          selected: this.state.startDate,
-	          onChange: this.handleChange,
-	          showYearDropdown: true,
-	          dateFormatCalendar: 'MMMM' })
 	      )
 	    );
 	  }
@@ -64079,7 +64018,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/year_select_dropdown.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/year_dropdown.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -64114,29 +64053,20 @@
 	        _react3.default.createElement(
 	          'code',
 	          { className: 'jsx' },
-	          "<DatePicker",
+	          '<DatePicker',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.startDate}",
+	          'selected={this.state.startDate}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChange}",
+	          'onChange={this.handleChange}',
 	          ' ',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "peekNextMonth",
+	          'showYearDropdown',
 	          ' ',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "showMonthDropdown",
+	          'dateFormatCalendar="MMMM"',
 	          ' ',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "showYearDropdown",
-	          ' ',
-	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "dropdownMode=\"select\" />"
+	          'scrollableYearDropdown />'
 	        )
 	      ),
 	      _react3.default.createElement(
@@ -64145,10 +64075,9 @@
 	        _react3.default.createElement(_reactDatepicker2.default, {
 	          selected: this.state.startDate,
 	          onChange: this.handleChange,
-	          peekNextMonth: true,
-	          showMonthDropdown: true,
 	          showYearDropdown: true,
-	          dropdownMode: 'select' })
+	          dateFormatCalendar: 'MMMM',
+	          scrollableYearDropdown: true })
 	      )
 	    );
 	  }
@@ -64184,13 +64113,119 @@
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 	var _components = {
+	  YearDropdown: {
+	    displayName: 'YearDropdown'
+	  }
+	};
+
+	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/year_select_dropdown.jsx',
+	  components: _components,
+	  locals: [module],
+	  imports: [_react3.default]
+	});
+
+	function _wrapComponent(id) {
+	  return function (Component) {
+	    return _reactTransformHmr2(Component, id);
+	  };
+	}
+
+	exports.default = _wrapComponent('YearDropdown')(_react3.default.createClass({
+	  displayName: 'YearDropdown',
+
+	  getInitialState: function getInitialState() {
+	    return {
+	      startDate: (0, _moment2.default)()
+	    };
+	  },
+	  handleChange: function handleChange(date) {
+	    this.setState({
+	      startDate: date
+	    });
+	  },
+	  render: function render() {
+	    return _react3.default.createElement(
+	      'div',
+	      { className: 'row' },
+	      _react3.default.createElement(
+	        'pre',
+	        { className: 'column example__code' },
+	        _react3.default.createElement(
+	          'code',
+	          { className: 'jsx' },
+	          '<DatePicker',
+	          _react3.default.createElement('br', null),
+	          'selected={this.state.startDate}',
+	          _react3.default.createElement('br', null),
+	          'onChange={this.handleChange}',
+	          ' ',
+	          _react3.default.createElement('br', null),
+	          'peekNextMonth',
+	          ' ',
+	          _react3.default.createElement('br', null),
+	          'showMonthDropdown',
+	          ' ',
+	          _react3.default.createElement('br', null),
+	          'showYearDropdown',
+	          ' ',
+	          _react3.default.createElement('br', null),
+	          '\xA0 \xA0 ',
+	          'dropdownMode="select" />'
+	        )
+	      ),
+	      _react3.default.createElement(
+	        'div',
+	        { className: 'column' },
+	        _react3.default.createElement(_reactDatepicker2.default, {
+	          selected: this.state.startDate,
+	          onChange: this.handleChange,
+	          peekNextMonth: true,
+	          showMonthDropdown: true,
+	          showYearDropdown: true,
+	          dropdownMode: 'select' })
+	      )
+	    );
+	  }
+	}));
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
+
+/***/ },
+/* 636 */
+/***/ function(module, exports, __webpack_require__) {
+
+	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
+
+	Object.defineProperty(exports, "__esModule", {
+	  value: true
+	});
+
+	var _react2 = __webpack_require__(2);
+
+	var _react3 = _interopRequireDefault(_react2);
+
+	var _reactTransformHmr3 = __webpack_require__(175);
+
+	var _reactTransformHmr4 = _interopRequireDefault(_reactTransformHmr3);
+
+	var _reactDatepicker = __webpack_require__(492);
+
+	var _reactDatepicker2 = _interopRequireDefault(_reactDatepicker);
+
+	var _moment = __webpack_require__(494);
+
+	var _moment2 = _interopRequireDefault(_moment);
+
+	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+	var _components = {
 	  Default: {
 	    displayName: 'Default'
 	  }
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/today.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/today.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -64225,20 +64260,20 @@
 	        _react3.default.createElement(
 	          'code',
 	          { className: 'jsx' },
-	          "<DatePicker",
+	          '<DatePicker',
 	          _react3.default.createElement('br', null),
-	          "todayButton={'Vandaag'}",
+	          'todayButton={"Vandaag"}',
 	          _react3.default.createElement('br', null),
-	          "selected={this.state.startDate}",
+	          'selected={this.state.startDate}',
 	          _react3.default.createElement('br', null),
-	          "onChange={this.handleChange} />"
+	          'onChange={this.handleChange} />'
 	        )
 	      ),
 	      _react3.default.createElement(
 	        'div',
 	        { className: 'column' },
 	        _react3.default.createElement(_reactDatepicker2.default, {
-	          todayButton: "Vandaag",
+	          todayButton: 'Vandaag',
 	          selected: this.state.startDate,
 	          onChange: this.handleChange })
 	      )
@@ -64248,7 +64283,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
 
 /***/ },
-/* 636 */
+/* 637 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
@@ -64278,7 +64313,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/timezone_date.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/timezone_date.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -64313,13 +64348,13 @@
 	        _react3.default.createElement(
 	          'code',
 	          { className: 'jsx' },
-	          "<DatePicker",
+	          '<DatePicker',
 	          _react3.default.createElement('br', null),
-	          "utcOffset='1320'",
+	          'utcOffset=1320',
 	          _react3.default.createElement('br', null),
-	          "todayButton='Today'",
+	          'todayButton="Today"',
 	          _react3.default.createElement('br', null),
-	          "onChange={this.handleChange} />"
+	          'onChange={this.handleChange} />'
 	        )
 	      ),
 	      _react3.default.createElement(
@@ -64329,101 +64364,6 @@
 	          utcOffset: 1320,
 	          dateFormat: 'DD-MMM HH:mm',
 	          todayButton: 'Today in Farawayland',
-	          selected: this.state.startDate,
-	          onChange: this.handleChange })
-	      )
-	    );
-	  }
-	}));
-	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
-
-/***/ },
-/* 637 */
-/***/ function(module, exports, __webpack_require__) {
-
-	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
-
-	Object.defineProperty(exports, "__esModule", {
-	  value: true
-	});
-
-	var _react2 = __webpack_require__(2);
-
-	var _react3 = _interopRequireDefault(_react2);
-
-	var _reactTransformHmr3 = __webpack_require__(175);
-
-	var _reactTransformHmr4 = _interopRequireDefault(_reactTransformHmr3);
-
-	var _reactDatepicker = __webpack_require__(492);
-
-	var _reactDatepicker2 = _interopRequireDefault(_reactDatepicker);
-
-	var _moment = __webpack_require__(494);
-
-	var _moment2 = _interopRequireDefault(_moment);
-
-	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-	var _components = {
-	  Inline: {
-	    displayName: 'Inline'
-	  }
-	};
-
-	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/inline.jsx',
-	  components: _components,
-	  locals: [module],
-	  imports: [_react3.default]
-	});
-
-	function _wrapComponent(id) {
-	  return function (Component) {
-	    return _reactTransformHmr2(Component, id);
-	  };
-	}
-
-	exports.default = _wrapComponent('Inline')(_react3.default.createClass({
-	  displayName: 'Inline',
-
-	  getInitialState: function getInitialState() {
-	    return {
-	      startDate: (0, _moment2.default)()
-	    };
-	  },
-	  handleChange: function handleChange(date) {
-	    this.setState({
-	      startDate: date
-	    });
-	  },
-	  render: function render() {
-	    return _react3.default.createElement(
-	      'div',
-	      { className: 'row' },
-	      _react3.default.createElement(
-	        'pre',
-	        { className: 'column example__code' },
-	        _react3.default.createElement(
-	          'code',
-	          { className: 'jsx' },
-	          "<DatePicker",
-	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "inline",
-	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.startDate}",
-	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChange} />"
-	        )
-	      ),
-	      _react3.default.createElement(
-	        'div',
-	        { className: 'column' },
-	        _react3.default.createElement(_reactDatepicker2.default, {
-	          inline: true,
 	          selected: this.state.startDate,
 	          onChange: this.handleChange })
 	      )
@@ -64461,13 +64401,105 @@
 	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 	var _components = {
+	  Inline: {
+	    displayName: 'Inline'
+	  }
+	};
+
+	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/inline.jsx',
+	  components: _components,
+	  locals: [module],
+	  imports: [_react3.default]
+	});
+
+	function _wrapComponent(id) {
+	  return function (Component) {
+	    return _reactTransformHmr2(Component, id);
+	  };
+	}
+
+	exports.default = _wrapComponent('Inline')(_react3.default.createClass({
+	  displayName: 'Inline',
+
+	  getInitialState: function getInitialState() {
+	    return {
+	      startDate: (0, _moment2.default)()
+	    };
+	  },
+	  handleChange: function handleChange(date) {
+	    this.setState({
+	      startDate: date
+	    });
+	  },
+	  render: function render() {
+	    return _react3.default.createElement(
+	      'div',
+	      { className: 'row' },
+	      _react3.default.createElement(
+	        'pre',
+	        { className: 'column example__code' },
+	        _react3.default.createElement(
+	          'code',
+	          { className: 'jsx' },
+	          '<DatePicker',
+	          _react3.default.createElement('br', null),
+	          'inline',
+	          _react3.default.createElement('br', null),
+	          'selected={this.state.startDate}',
+	          _react3.default.createElement('br', null),
+	          'onChange={this.handleChange} />'
+	        )
+	      ),
+	      _react3.default.createElement(
+	        'div',
+	        { className: 'column' },
+	        _react3.default.createElement(_reactDatepicker2.default, {
+	          inline: true,
+	          selected: this.state.startDate,
+	          onChange: this.handleChange })
+	      )
+	    );
+	  }
+	}));
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
+
+/***/ },
+/* 639 */
+/***/ function(module, exports, __webpack_require__) {
+
+	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
+
+	Object.defineProperty(exports, "__esModule", {
+	  value: true
+	});
+
+	var _react2 = __webpack_require__(2);
+
+	var _react3 = _interopRequireDefault(_react2);
+
+	var _reactTransformHmr3 = __webpack_require__(175);
+
+	var _reactTransformHmr4 = _interopRequireDefault(_reactTransformHmr3);
+
+	var _reactDatepicker = __webpack_require__(492);
+
+	var _reactDatepicker2 = _interopRequireDefault(_reactDatepicker);
+
+	var _moment = __webpack_require__(494);
+
+	var _moment2 = _interopRequireDefault(_moment);
+
+	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+	var _components = {
 	  OpenToDate: {
 	    displayName: 'OpenToDate'
 	  }
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/open_to_date.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/open_to_date.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -64502,15 +64534,13 @@
 	        _react3.default.createElement(
 	          'code',
 	          { className: 'jsx' },
-	          "<DatePicker",
+	          '<DatePicker',
 	          _react3.default.createElement('br', null),
-	          "openToDate={moment('1993-09-28')}",
+	          'openToDate={moment("1993-09-28")}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.startDate}",
+	          'selected={this.state.startDate}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChange} />"
+	          'onChange={this.handleChange} />'
 	        )
 	      ),
 	      _react3.default.createElement(
@@ -64527,7 +64557,7 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
 
 /***/ },
-/* 639 */
+/* 640 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
@@ -64557,7 +64587,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/fixed_calendar.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/fixed_calendar.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -64592,16 +64622,13 @@
 	        _react3.default.createElement(
 	          'code',
 	          { className: 'jsx' },
-	          "<DatePicker",
+	          '<DatePicker',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "fixedHeight",
+	          'fixedHeight',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.startDate}",
+	          'selected={this.state.startDate}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChange} />"
+	          'onChange={this.handleChange} />'
 	        )
 	      ),
 	      _react3.default.createElement(
@@ -64618,7 +64645,99 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
 
 /***/ },
-/* 640 */
+/* 641 */
+/***/ function(module, exports, __webpack_require__) {
+
+	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
+
+	Object.defineProperty(exports, "__esModule", {
+	  value: true
+	});
+
+	var _react2 = __webpack_require__(2);
+
+	var _react3 = _interopRequireDefault(_react2);
+
+	var _reactTransformHmr3 = __webpack_require__(175);
+
+	var _reactTransformHmr4 = _interopRequireDefault(_reactTransformHmr3);
+
+	var _reactDatepicker = __webpack_require__(492);
+
+	var _reactDatepicker2 = _interopRequireDefault(_reactDatepicker);
+
+	var _moment = __webpack_require__(494);
+
+	var _moment2 = _interopRequireDefault(_moment);
+
+	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+	var _components = {
+	  Default: {
+	    displayName: 'Default'
+	  }
+	};
+
+	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/week_numbers.jsx',
+	  components: _components,
+	  locals: [module],
+	  imports: [_react3.default]
+	});
+
+	function _wrapComponent(id) {
+	  return function (Component) {
+	    return _reactTransformHmr2(Component, id);
+	  };
+	}
+
+	exports.default = _wrapComponent('Default')(_react3.default.createClass({
+	  displayName: 'Default',
+
+	  getInitialState: function getInitialState() {
+	    return {
+	      startDate: (0, _moment2.default)()
+	    };
+	  },
+	  handleChange: function handleChange(date) {
+	    this.setState({
+	      startDate: date
+	    });
+	  },
+	  render: function render() {
+	    return _react3.default.createElement(
+	      'div',
+	      { className: 'row' },
+	      _react3.default.createElement(
+	        'pre',
+	        { className: 'column example__code' },
+	        _react3.default.createElement(
+	          'code',
+	          { className: 'jsx' },
+	          '<DatePicker',
+	          _react3.default.createElement('br', null),
+	          'selected={this.state.startDate}',
+	          _react3.default.createElement('br', null),
+	          'onChange={this.handleChange}',
+	          _react3.default.createElement('br', null),
+	          'showWeekNumbers />'
+	        )
+	      ),
+	      _react3.default.createElement(
+	        'div',
+	        { className: 'column' },
+	        _react3.default.createElement(_reactDatepicker2.default, {
+	          selected: this.state.startDate,
+	          onChange: this.handleChange,
+	          showWeekNumbers: true })
+	      )
+	    );
+	  }
+	}));
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
+
+/***/ },
+/* 642 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
@@ -64655,7 +64774,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/examples/custom_input.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/custom_input.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
@@ -64710,68 +64829,53 @@
 	        _react3.default.createElement(
 	          'code',
 	          { className: 'jsx' },
-	          "var ExampleCustomInput = React.createClass({",
+	          'var ExampleCustomInput = React.createClass({',
 	          _react3.default.createElement('br', null),
-	          '\xA0 ',
-	          "displayName: 'ExampleCustomInput',",
-	          _react3.default.createElement('br', null),
-	          _react3.default.createElement('br', null),
-	          '\xA0 ',
-	          "propTypes: {",
-	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onClick: React.PropTypes.func,",
-	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "value: React.PropTypes.string",
-	          _react3.default.createElement('br', null),
-	          '\xA0 ',
-	          "},",
+	          'displayName: "ExampleCustomInput" ,',
 	          _react3.default.createElement('br', null),
 	          _react3.default.createElement('br', null),
 	          '\xA0 ',
-	          "render () {",
+	          'propTypes: {',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "return (",
+	          'onClick: React.PropTypes.func,',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 \xA0 ',
-	          "<button",
+	          'value: React.PropTypes.string',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 \xA0 \xA0 ',
-	          "className=\"example-custom-input\"",
+	          '},',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 \xA0 \xA0 ',
-	          "onClick={this.props.onClick}>",
-	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 \xA0 \xA0 ',
-	          "{this.props.value}",
-	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 \xA0 ',
-	          "</button>",
-	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          ")",
 	          _react3.default.createElement('br', null),
 	          '\xA0 ',
-	          "}",
+	          'render () {',
 	          _react3.default.createElement('br', null),
-	          "})",
+	          'return (',
+	          _react3.default.createElement('br', null),
+	          '<button',
+	          _react3.default.createElement('br', null),
+	          'className="example-custom-input"',
+	          _react3.default.createElement('br', null),
+	          'onClick={this.props.onClick}>',
+	          _react3.default.createElement('br', null),
+	          '{this.props.value}',
+	          _react3.default.createElement('br', null),
+	          '</button>',
+	          _react3.default.createElement('br', null),
+	          ')',
+	          _react3.default.createElement('br', null),
+	          '}',
+	          _react3.default.createElement('br', null),
+	          '})',
 	          _react3.default.createElement('br', null),
 	          _react3.default.createElement('br', null),
-	          "...",
+	          '...',
 	          _react3.default.createElement('br', null),
 	          _react3.default.createElement('br', null),
-	          "<DatePicker",
+	          '<DatePicker',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "customInput={<ExampleCustomInput />}",
+	          'customInput={<ExampleCustomInput />}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "selected={this.state.startDate}",
+	          'selected={this.state.startDate}',
 	          _react3.default.createElement('br', null),
-	          '\xA0 \xA0 ',
-	          "onChange={this.handleChange} />"
+	          'onChange={this.handleChange} />'
 	        )
 	      ),
 	      _react3.default.createElement(
@@ -64788,15 +64892,202 @@
 	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
 
 /***/ },
-/* 641 */
+/* 643 */
+/***/ function(module, exports, __webpack_require__) {
+
+	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
+
+	Object.defineProperty(exports, "__esModule", {
+	  value: true
+	});
+
+	var _react2 = __webpack_require__(2);
+
+	var _react3 = _interopRequireDefault(_react2);
+
+	var _reactTransformHmr3 = __webpack_require__(175);
+
+	var _reactTransformHmr4 = _interopRequireDefault(_reactTransformHmr3);
+
+	var _reactDatepicker = __webpack_require__(492);
+
+	var _reactDatepicker2 = _interopRequireDefault(_reactDatepicker);
+
+	var _moment = __webpack_require__(494);
+
+	var _moment2 = _interopRequireDefault(_moment);
+
+	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+	var _components = {
+	  MultiMonth: {
+	    displayName: 'MultiMonth'
+	  }
+	};
+
+	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/multi_month.jsx',
+	  components: _components,
+	  locals: [module],
+	  imports: [_react3.default]
+	});
+
+	function _wrapComponent(id) {
+	  return function (Component) {
+	    return _reactTransformHmr2(Component, id);
+	  };
+	}
+
+	exports.default = _wrapComponent('MultiMonth')(_react3.default.createClass({
+	  displayName: 'MultiMonth',
+
+	  getInitialState: function getInitialState() {
+	    return {
+	      startDate: (0, _moment2.default)()
+	    };
+	  },
+	  handleChange: function handleChange(date) {
+	    this.setState({
+	      startDate: date
+	    });
+	  },
+	  render: function render() {
+	    return _react3.default.createElement(
+	      'div',
+	      { className: 'row' },
+	      _react3.default.createElement(
+	        'pre',
+	        { className: 'column example__code' },
+	        _react3.default.createElement(
+	          'code',
+	          { className: 'jsx' },
+	          '<DatePicker',
+	          _react3.default.createElement('br', null),
+	          'selected={this.state.startDate}',
+	          _react3.default.createElement('br', null),
+	          'onChange={this.handleChange}',
+	          _react3.default.createElement('br', null),
+	          'months={2} />'
+	        )
+	      ),
+	      _react3.default.createElement(
+	        'div',
+	        { className: 'column' },
+	        _react3.default.createElement(_reactDatepicker2.default, {
+	          months: 2,
+	          onChange: this.handleChange,
+	          selected: this.state.startDate })
+	      )
+	    );
+	  }
+	}));
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
+
+/***/ },
+/* 644 */
+/***/ function(module, exports, __webpack_require__) {
+
+	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
+
+	Object.defineProperty(exports, "__esModule", {
+	  value: true
+	});
+
+	var _react2 = __webpack_require__(2);
+
+	var _react3 = _interopRequireDefault(_react2);
+
+	var _reactTransformHmr3 = __webpack_require__(175);
+
+	var _reactTransformHmr4 = _interopRequireDefault(_reactTransformHmr3);
+
+	var _reactDatepicker = __webpack_require__(492);
+
+	var _reactDatepicker2 = _interopRequireDefault(_reactDatepicker);
+
+	var _moment = __webpack_require__(494);
+
+	var _moment2 = _interopRequireDefault(_moment);
+
+	function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+	var _components = {
+	  MultiMonthDrp: {
+	    displayName: 'MultiMonthDrp'
+	  }
+	};
+
+	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/examples/multi_month_drp.jsx',
+	  components: _components,
+	  locals: [module],
+	  imports: [_react3.default]
+	});
+
+	function _wrapComponent(id) {
+	  return function (Component) {
+	    return _reactTransformHmr2(Component, id);
+	  };
+	}
+
+	exports.default = _wrapComponent('MultiMonthDrp')(_react3.default.createClass({
+	  displayName: 'MultiMonthDrp',
+
+	  getInitialState: function getInitialState() {
+	    return {
+	      startDate: (0, _moment2.default)()
+	    };
+	  },
+	  handleChange: function handleChange(date) {
+	    this.setState({
+	      startDate: date
+	    });
+	  },
+	  render: function render() {
+	    return _react3.default.createElement(
+	      'div',
+	      { className: 'row' },
+	      _react3.default.createElement(
+	        'pre',
+	        { className: 'column example__code' },
+	        _react3.default.createElement(
+	          'code',
+	          { className: 'jsx' },
+	          '<DatePicker',
+	          _react3.default.createElement('br', null),
+	          'selected={this.state.startDate}',
+	          _react3.default.createElement('br', null),
+	          'onChange={this.handleChange}',
+	          _react3.default.createElement('br', null),
+	          'showYearDropdown',
+	          _react3.default.createElement('br', null),
+	          'months={2} />'
+	        )
+	      ),
+	      _react3.default.createElement(
+	        'div',
+	        { className: 'column' },
+	        _react3.default.createElement(_reactDatepicker2.default, {
+	          months: 2,
+	          onChange: this.handleChange,
+	          showYearDropdown: true,
+	          selected: this.state.startDate })
+	      )
+	    );
+	  }
+	}));
+	/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(174)(module)))
+
+/***/ },
+/* 645 */
 /***/ function(module, exports) {
 
 	// removed by extract-text-webpack-plugin
 
 /***/ },
-/* 642 */
-641,
-/* 643 */
+/* 646 */
+645,
+/* 647 */
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(module) {'use strict';
@@ -64830,7 +65121,7 @@
 	};
 
 	var _reactTransformHmr2 = (0, _reactTransformHmr4.default)({
-	  filename: '/home/avarko/react-datepicker/docs-site/src/hero_example.jsx',
+	  filename: '/Users/e0/Documents/Code/Inkassogram/react-datepicker/docs-site/src/hero_example.jsx',
 	  components: _components,
 	  locals: [module],
 	  imports: [_react3.default]
